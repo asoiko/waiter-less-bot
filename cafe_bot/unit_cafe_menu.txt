@@ -1,0 +1,72 @@
+category;name;description;weight;price;image
+сніданки;сніданок№5;Доступно з 09:30 по 12:00. БУРГЕР З ЯЙЦЕМ, КОТЛЕТОЮ З ЯЛОВИЧИНИ, БЕКОНОМ, СИРОМ ЧЕДДЕР. ПОДАЄТЬСЯ З КАРТОПЛЕЮ ФРІ АБО ПО-СЕЛЯНСЬКІ І СОУСОМ НА ВИБІР;350;122;https://unit.cafe/image/cache/catalog/product/prod-da196d33-image-535x405.jpeg
+сніданки;сніданок№4;Доступно з 09:30 по 12:00. ОМЛЕТ ІЗ СЬОМГОЮ, СИРОМ ЧЕДДЕР. ПОДАЄТЬСЯ ЗІ ШПИНАТОМ, ТОМАТАМИ ЧЕРІ ТА ОГІРКОМ;280;111;https://unit.cafe/image/cache/catalog/product/prod-56474b1b-image-535x405.jpeg
+сніданки;сніданок№3;Доступно з 09:30 по 12:00. ПАНКЕЙКИ З СИРОМ КАМАМБЕР І СЕЗОННИМИ ФРУКТАМИ;300;92;https://unit.cafe/image/cache/catalog/product/prod-56474b19-image-535x405.jpeg
+сніданки;сніданок№2;Доступно з 09:30 по 12:00. Яйця пашот на тостах з підсмаженим беконом. Подається з руколою, авокадо і томатми чері.;270;89;https://unit.cafe/image/cache/catalog/product/prod-2661cb19-image-535x405.jpeg
+сніданки;сніданок№1;Доступно з 09:30 по 12:00. Два яйця, дві молочні сосиски на вибір і соус на вибір. Подається з міксом салатів.;280;98;https://unit.cafe/image/cache/catalog/product/prod-ea8dc8a9-image-535x405.jpeg
+сніданки;сирники;Доступно з 09:30 по 12:00. СИРНИКИ ЗІ СМЕТАНОЮ. ПОДАЮТЬСЯ З БАНАНОМ В КАРАМЕЛЬНОМУ СОУСІ І МЕНДАЛЬНІЙ КРИХТІ;350;110;https://unit.cafe/image/cache/catalog/product/prod-56474b1d-image-535x405.jpeg
+сніданки;Вівсянка на молоці;Доступно з 09:30 по 12:00. Не забудьте про доповнення! Доступні наповнювачі: банан, волоський горіх, соус ягідний, мед, карамель, курага, ізюм.;300;38;https://unit.cafe/image/cache/catalog/product/prod-8136349a-image-535x405.jpeg
+сніданки;Вівсянка на воді;Доступно з 09:30 по 12:00. Не забудьте про доповнення! Доступні наповнювачі: банан, волоський горіх, соус ягідний, мед, карамель, курага, ізюм;300;38;https://unit.cafe/image/cache/catalog/product/prod-1ce089a7-image-535x405.jpeg
+доповнення;Апельсин 1шт.;;1шт;10;https://unit.cafe/image/cache/catalog/product/prod-e5f287c7-image-535x405.jpeg
+доповнення;Яблоко;;1шт;10;https://unit.cafe/image/cache/catalog/product/prod-c19dac2f-image-535x405.jpeg
+доповнення;Фрукти в асс.;;100;32;https://unit.cafe/image/cache/catalog/product/prod-a5d55ceb-image-535x405.jpeg
+доповнення;Родзинки;;50;17;https://unit.cafe/image/cache/catalog/product/prod-56474b2d-image-535x405.jpeg
+доповнення;Мед;;50;20;https://unit.cafe/image/cache/catalog/product/prod-56474b27-image-535x405.jpeg
+доповнення;Мікс горіхів;;100г;24;https://unit.cafe/image/cache/catalog/product/prod-ead5cba5-image-535x405.jpeg
+доповнення;Курага;;50;19;https://unit.cafe/image/cache/catalog/product/prod-56474b2b-image-535x405.jpeg
+доповнення;Банан;;1шт;10;https://unit.cafe/image/cache/catalog/product/prod-8cfc3110-image-535x405.jpeg
+доповнення;Жувальна гумка орбіт;;1шт;30;https://unit.cafe/image/cache/catalog/product/prod-4743e601-image-535x405.jpeg
+салати;Салат морський вугор в соусі унагі; САЛАТ МОРСЬКИЙ ВУГОР В СОУСІ УНАГІ. ПОДАЄТЬСЯ З ВОДОРОСТЯМИ ХІЯШІ ВАКАМЕ, СМАЖЕНИМ НАСІННЯМ КУНЖУТУ;250;186;https://unit.cafe/image/cache/catalog/product/prod-4f46d9e5-image-535x405.jpeg
+салати;Салат яловичина су-від;Яловичина су-від, салат рукола, груша, томати чері, сир камембер, заправляється малиновим соусом.;250;165;https://unit.cafe/image/cache/catalog/product/prod-16b1087b-image-535x405.jpeg
+салати;Салат тигрові креветки;Салат тигрові креветки, мікс салатів, тамати чері, сир гарганзола, заправляється сирним соусом.;280;193;https://unit.cafe/image/cache/catalog/product/prod-dfb00827-image-535x405.jpeg
+салати;Салат із слабосолоним лососем;СЛАБОСОЛОНИЙ ЛОСОСЬ, ІКРА, МІКС САЛАТІВ, ЯЙЦЕ, ТОМАТИ ЧЕРІ, ПІДСУШЕНИЙ БАГЕТ, СИР ПАРМЕЗАН ТА КАЛІФОРНІЯ. ЗАПРАВЛЯЄТЬСЯ СОУСОМ ЦЕЗАР;240;149;https://unit.cafe/image/cache/catalog/product/prod-1380a5d1-image-535x405.jpeg
+салати;Салат із овочів з сиром фета;СВІЖІ ОВОЧІ З М’ЯКИМ СИРОМ ФЕТА, ОЛИВКАМИ, МІКСОМ САЛАТІВ ТА ЦИБУЛЕЮ АЛЕКО. ЗАПРАВЛЯЄТЬСЯ ОЛИВКОВОЮ;280;109;https://unit.cafe/image/cache/catalog/product/prod-84bb145d-image-535x405.jpeg
+салати;Салат із запеченої курки;ЗАПЕЧЕНА КУРКА, МІКС САЛАТІВ, БЕКОН, КАПЕРСИ, ТОМАТИ ЧЕРІ, СИР ПАРМЕЗАН, ЯЙЦЕ;250;124;https://unit.cafe/image/cache/catalog/product/prod-d0c5f4df-image-535x405.jpeg
+хот-доги;Хот дог мікс салатів, бекон, молочна сосиска, тома;МІКС САЛАТІВ, БЕКОН, МОЛОЧНА СОСИСКА, ТОМАТИ ЧЕРІ, СИР ПАРМЕЗАН, ПІДСУШЕНА БУЛОЧКА І СОУС ЦЕЗАР;200;86;https://unit.cafe/image/cache/catalog/product/prod-a12d791b-image-535x405.jpeg
+хот-доги;Хот дог яловичина су-від в хрусткій булочці;Хот дог яловичина су-від в хрусткій булочці з солоним огірком, міксом салатів і сирним соусом.;250;115;https://unit.cafe/image/cache/no_image-535x405.png
+бургери;UNIT BURGER;Булка без кунжуту, два соуси, фірмова котлета, томат, цибуля маринована, огірок маринований.;300;96;https://unit.cafe/image/cache/catalog/product/prod-676ffe38-image-535x405.jpeg
+бургери;FRESH BURGER;Булка з чорнилом каракатиці, два соуси, 2 фірмові котлети, сир чеддер, салат, свіжі овочі, зелена цибуля. Подаються з картоплею фрі або по-селянські і соусом на вибір;450;189;https://unit.cafe/image/cache/catalog/product/prod-1788fa7c-image-535x405.jpeg
+бургери;DOUBLE UNIT;Булка без кунжуту, два соуси, подвійна фірмова котлета, сир чеддер, томат, огірок маринований, цибуля маринована.;400;126;https://unit.cafe/image/cache/catalog/product/prod-9431f163-image-535x405.jpeg
+бургери;BURGER SHRIMP;;330;197;https://unit.cafe/image/cache/catalog/product/prod-1788fa78-image-535x405.jpeg
+закуски;Сирні палички;З сиром моцарела та журавлиним соусом.;5шт;87;https://unit.cafe/image/cache/catalog/product/prod-1788fa8b-image-535x405.jpeg
+закуски;Нагетси;;9шт;63;https://unit.cafe/image/cache/catalog/product/prod-1788fa8b-image-535x405.jpeg
+закуски;Крильця соєво-медові;;6шт;63;https://unit.cafe/image/cache/catalog/product/prod-56474b48-image-535x405.jpeg
+закуски;Крильця з соусом солодкий чілі;Крильця з соусом солодкий чілі 6шт.;6шт;63;https://unit.cafe/image/cache/catalog/product/prod-56474b48-image-535x405.jpeg
+супи;Крем-суп зі шпинат;КРЕМ-СУП ІЗ ШПИНАТУ;300;98;https://unit.cafe/image/cache/catalog/product/prod-477a032f-image-535x405.jpeg
+супи;Бульйон з куркою, локшиною і яйцем;БУЛЬЙОН З КУРКОЮ, ЛОКШИНОЮ І ЯЙЦЕМ;300;59;https://unit.cafe/image/cache/catalog/product/prod-09190a3f-image-535x405.jpeg
+супи;Булочка молочна з кунжутом;;50;9;https://unit.cafe/image/cache/catalog/product/prod-81aab593-image-535x405.jpeg
+супи;Булочка зернова;;50;11;https://unit.cafe/image/cache/catalog/product/prod-5acb1e27-image-535x405.jpeg
+супи;Борщ з м’ясом;БОРЩ З М’ЯСОМ;300;73;https://www.gastronom.ru/binfiles/images/20190827/b72529bf.jpg
+Соуси;Соус сметана;;40;14;https://unit.cafe/image/cache/catalog/product/prod-da2e72a7-image-535x405.jpeg
+Соуси;Соус песто;;40;14;https://unit.cafe/image/cache/catalog/product/prod-107949cf-image-535x405.jpeg
+Соуси;Соус коктейль NEW;;40;14;https://unit.cafe/image/cache/catalog/product/prod-e721e339-image-535x405.jpeg
+Соуси;Соус кетчуп;;40;14;https://unit.cafe/image/cache/catalog/product/prod-1788fa98-image-535x405.jpeg
+Соуси;Соус журавлиний;;40;14;https://unit.cafe/image/cache/catalog/product/prod-b0014e8c-image-535x405.jpeg
+Соуси;Соус домашній майонез;;40;14;https://unit.cafe/image/cache/catalog/product/prod-c433d4e3-image-535x405.jpeg
+Соуси;Соус барбекю;;40;14;https://unit.cafe/image/cache/catalog/product/prod-1788faa6-image-535x405.jpeg
+Соуси;Соус гірчиця;;40;14;https://unit.cafe/image/cache/catalog/product/prod-da2e72a7-image-535x405.jpeg
+Соуси;Соус ремулад;;40;14;https://unit.cafe/image/cache/catalog/product/prod-8aee72c1-image-535x405.jpeg
+Напої;Американо BLEND;Арабіка, Бразилія та Центральна Америка;150;20;https://unit.cafe/image/cache/catalog/product/prod-057d305b-image-535x405.jpeg
+Напої;Конфета;;1шт;4;https://unit.cafe/image/cache/catalog/product/prod-5a87c934-image-535x405.jpeg
+Напої;Сік RICH на розлив в асортименті;;250;20;https://unit.cafe/image/cache/catalog/product/prod-86d8e0e4-image-535x405.jpeg
+Напої;Раф Б/К;;250;55;https://unit.cafe/image/cache/catalog/product/prod-703f663e-image-535x405.jpeg
+Напої;Швепс;;500;25;https://unit.cafe/image/cache/catalog/product/prod-23c8a5bb-image-535x405.jpeg
+Напої;Чай пакетований;;400;25;https://unit.cafe/image/cache/catalog/product/prod-63a4448d-image-535x405.jpeg
+Напої;Чай карпацький збір;;700;80;https://unit.cafe/image/cache/catalog/product/prod-dcfdfce4-image-535x405.jpeg
+Напої;Фреш Яблуко;;250;50;https://unit.cafe/image/cache/catalog/product/prod-74f0a637-image-535x405.jpeg
+Напої;Фреш Селера;;250;72;https://unit.cafe/image/cache/catalog/product/prod-74f0a639-image-535x405.jpeg
+Десерти;Шоколадний торт;;200;89;https://unit.cafe/image/cache/no_image-535x405.png
+Десерти;Сендвіч з куркою та руколою;;2шт;50;https://unit.cafe/image/cache/catalog/product/prod-c00bed4f-image-535x405.jpeg
+Десерти;Круасан з шоколадом;;75;35;https://unit.cafe/image/cache/catalog/product/prod-874e8e71-image-535x405.jpeg
+Десерти;Чізкейк снікерс;;200;76;https://unit.cafe/image/cache/catalog/product/prod-e3991cdb-image-535x405.jpeg
+Десерти;Морозиво пломбір з фруктами, вафельними трубочками;З сезонними ягодами;250;84;https://unit.cafe/image/cache/catalog/product/prod-2b3842e8-image-535x405.jpeg
+Десерти;Вишневий клафуті з ягодним сорбетом;;250;82;https://unit.cafe/deserti/vishneviy__klafuti__z__yahodnim__sorbetom
+Другі страви;Курячі стегенця в кисло-солокому соусі;КУРЯЧІ СТЕГЕНЦЯ В КИСЛО-СОЛОДКОМУ СОУСІ. ПОДАЮТЬСЯ З РИСОМ;400;173;https://unit.cafe/image/cache/catalog/product/prod-2ffa3671-image-535x405.jpeg
+Другі страви;Фалафель зі спаржевою квасолею і соусом песто;Фалафель зі спаржевою квасолею і соусом песто;300;86;https://unit.cafe/image/cache/catalog/product/prod-4318346a-image-535x405.jpeg
+Другі страви;Тайська локшина з морепродуктами;ТАЙСЬКА ЛОКШИНА З МОРЕПРОДУКТАМИ;350;177;https://unit.cafe/image/cache/catalog/product/prod-b36efebf-image-535x405.jpeg
+Другі страви;Тайська локшина з куркою та овочами;ТАЙСЬКА ЛОКШИНА З КУРКОЮ ТА ОВОЧАМИ;350;139;https://unit.cafe/image/cache/catalog/product/prod-e9ac7e3f-image-535x405.jpeg
+Другі страви;Рис відварений з маслом;;200;33;https://unit.cafe/image/cache/catalog/product/prod-86d8e0bd-image-535x405.jpeg
+Другі страви;Паста Чотири Сира;;350;169;https://unit.cafe/image/cache/catalog/product/prod-2656e2f2-image-535x405.jpeg
+Другі страви;Паста Карбонара;;350;124;https://unit.cafe/image/cache/catalog/product/prod-43a36c7a-image-535x405.jpeg
+Другі страви;Курячі ніжки з соусом кароліна;Курячі ніжки з соусом кароліна - барбекю. Подаються з картопляним пюре.;340;159;https://unit.cafe/image/cache/catalog/product/prod-3d281d7b-image-535x405.jpeg
+Другі страви;Картопля Фрі;;150;37;https://unit.cafe/image/cache/catalog/product/prod-1788faad-image-535x405.jpeg
